@@ -7,7 +7,14 @@
 - 인스타 업로드를 위한 instagram api key, instagram accoun id, filestack api key.
 
 사용 모듈
-- 
+- beautifulsoup
+- dotenv
+- filestack
+- langchain
+- pandas
+- pillow
+- requests
+- selenium
 
 진행순서
 - main.py를 실행하면, 3가지 주제를 선택가능
